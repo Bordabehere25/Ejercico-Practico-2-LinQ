@@ -29,6 +29,8 @@ namespace Ejercico_Practico_2_LinQ
             listaEmpleados.Add(new Empleado { Id = 6, Nombre = "Leonardo", Cargo = "CEO", EmpresaId = 1, Salario = 5000 });
             listaEmpleados.Add(new Empleado { Id = 1, Nombre = "Gonzalo", Cargo = "PEPITO", EmpresaId = 3, Salario = 200000 });
             listaEmpleados.Add(new Empleado { Id = 6, Nombre = "Leonardo", Cargo = "CEO", EmpresaId = 3, Salario = 150000 });
+
+            Console.WriteLine("Prueba GIT");
         }
         /////FUNCIONES GETTERS (OBETER DATOS)
 
